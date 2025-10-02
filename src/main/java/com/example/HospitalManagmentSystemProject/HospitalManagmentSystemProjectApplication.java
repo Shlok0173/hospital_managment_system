@@ -10,7 +10,7 @@ public class HospitalManagmentSystemProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HospitalManagmentSystemProjectApplication.class, args);
-		System.out.println("Hospital");
+      //
 	}
 
 }
